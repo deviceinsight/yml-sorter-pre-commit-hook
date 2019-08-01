@@ -1,4 +1,4 @@
-A pre-commit hook based for https://pre-commit.com, using https://www.npmjs.com/package/yml-sorter
+A pre-commit hook for https://pre-commit.com, using https://www.npmjs.com/package/yml-sorter
 
 = Usage
 
