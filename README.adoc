@@ -7,7 +7,7 @@ Simply add this to your `.pre-commit-config.yml`:
 ....
 repos:
  - repo: https://github.com/stefan-hudelmaier/yml-sorter-pre-commit-hook
-   rev: v1.0.0
+   rev: v1.1.0
    hooks:
     - id: yml-sorter
       files: 'some-yml-file.yml'
